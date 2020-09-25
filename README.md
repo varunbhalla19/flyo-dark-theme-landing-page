@@ -1,2 +1,3 @@
 # flyo-dark-theme-landing-page
-A challenge from FrontendMentor.io
+
+![Design preview for the Fylo landing page coding challenge](./design/desktop-preview.jpg)
